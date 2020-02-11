@@ -54,7 +54,7 @@ nav ul li {
 .top {
     width:960px;
     height:360px;
-    background-color:black;
+    background-color:#222222;
     margin:auto;
     margin-top:20px;
     color:white;
@@ -79,6 +79,7 @@ nav ul li {
     display:flex;
     justify-content:space-between;
     padding-top:15px;
+    padding-bottom:15px;
 }
 
 .card{
@@ -87,7 +88,7 @@ nav ul li {
 }
 
 .card div{
-    background-color: black;
+    background-color: #222222;
     display:flex;
     justify-content: center;
     align-items: center;
